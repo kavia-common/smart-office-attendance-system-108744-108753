@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-office-attendance-system-108744-108753/attendance_frontend"
+}
